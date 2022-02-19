@@ -1,4 +1,4 @@
 # QTPintor
  
-Bare Version of Pintor3 repositorie.
+Bare Version of Pintor3 repository.
 no functions added
